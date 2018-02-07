@@ -42,6 +42,6 @@ sns.set_style('whitegrid')
 sns.kdeplot(np.array(data1),bw=0.1)
 sns.kdeplot(np.array(data2),bw=0.1)
 plt.show()
-
+#DMMM
 
 
