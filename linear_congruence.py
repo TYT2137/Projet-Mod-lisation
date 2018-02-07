@@ -37,7 +37,7 @@ def random_generator_computer(steps):
     
 data1 = linear_congruence(3,158348089,0,2**31-1,300000)
 data2 = random_generator_computer(300000)
-
+#qsdsqdsqd
 sns.set_style('whitegrid')
 sns.kdeplot(np.array(data1),bw=0.1)
 sns.kdeplot(np.array(data2),bw=0.1)
